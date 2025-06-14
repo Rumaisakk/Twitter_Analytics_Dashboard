@@ -15,8 +15,9 @@ This Power BI project analyzes tweet performance, including impressions, URL cli
 
 ## 📷 Preview
 
-![Dashboard Screenshot](Sum of Clicks by Click Types.png)
-![Dashboard Screenshot](Sum of Clicks by Click Types and id.png)
+- ![Dashboard Screenshot](Sum of Clicks by Click Types.png)
+  
+- ![Dashboard Screenshot](Sum of Clicks by Click Types and id.png)
 
 ## 📎 Dataset
 
